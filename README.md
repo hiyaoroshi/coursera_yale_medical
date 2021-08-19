@@ -1,14 +1,17 @@
 ### Coursera 字幕翻訳備忘録
 
-- 備忘録の目的： 字幕翻訳についての参考のため
-
-- コース名： Understanding Medical Research: Your Facebook Friend is Wrong
-             (医学研究を理解する:あなたのフェースブック友達は間違っている)
-             Yale University F.Perry Willson
+***
+- コース名： Understanding Medical Research: Your Facebook Friend is Wrong  
+             (医学研究を理解する:あなたのフェースブック友達は間違っている)  
+             Yale University F.Perry Willson  
              
 - 字幕翻訳作成： nmukai GTC 2021.3
+***
 
-- 備忘録の構成
+備忘録の目的： 字幕翻訳についての参考のため  
+
+備忘録の構成： 以下のとおり
+
     + 訳語集: 字幕翻訳時に使用した訳語集に参照箇所を生成して加えたもの
         + [訳語集 医学研究の用語(PDF)](/訳語集_イェール_医学研究.pdf)
         + [訳語集 医学研究の用語(エクセル)](/訳語集_イェール_医学研究.xlsx)
